@@ -1,3 +1,5 @@
+package com.nero.log4j;
+
 import org.apache.log4j.*;
 
 public class Main {
